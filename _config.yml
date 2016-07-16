@@ -1,0 +1,14 @@
+layout_spectrum: 0.125448
+typography_spectrum: 0.8100358
+color:
+  saturation: 0.07394474
+  lightness: 0.7529567
+  brandStrength: 0.8380561
+  rhythmicContrast: 0.9088068
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Testigsite
